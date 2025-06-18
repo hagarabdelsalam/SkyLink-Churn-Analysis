@@ -1,0 +1,2 @@
+This Project aim to comprehensively analyze customer churn for the telecommunication company SkyLink. This involves not only determining the churn rate but, more critically, identifying the underlying reasons for customer churn and subsequently proposing strategies to reduce it. The analysis will be conducted using a given dataset, leveraging Microsoft Power BI to create insightful measures, calculated columns, and visually engaging report pages to present the findings.
+tools --> Power BI
